@@ -1,0 +1,3 @@
+Terminar de pegar jobs y reglas
+Retocar diseño
+Agregar lista desplegable en cada regla
